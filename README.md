@@ -6,8 +6,6 @@
 
   An inquirer and mySQL command line application to track and update employee information.
   
-  Repo: 
-  
   Walkthrough Video: https://drive.google.com/file/d/14mzow_tbQdGx9m_bkBG89v8IGMkCsNjq/view
   
   Screenshots:
